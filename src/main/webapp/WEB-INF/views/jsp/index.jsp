@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To cloudcandy.</h2>
-			<h3>Contact @ +91-9597361516 </h3>
+			<h2>Welcome to DEVOPS.</h2>
+			<h3>JENKINS DOCKER </h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; cloudcandy 2020</p>
+		<p>&copy; contact @ cnivethac11@gmail.com</p>
 	</footer>
 </div>
 
